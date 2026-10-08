@@ -30,8 +30,8 @@ This project features two main controllers designed for a healthcare management 
 ## 📸 Test Results & Verification
 1. Patient Controller Test SuiteExecution results for patientController.test.js, verifying authentication flows, registration, and password hashing security.  
 
-<img src="./screenshots/scr1.jpg" width="500" />
+<img src="./screenshots/scr1.png" width="500" />
 
 2. Health Controller Test SuiteExecution results for healthController.test.js, demonstrating 15 passing tests covering complex sequential mock resolutions, parameter matchers, and error handling.
 
-<img src="./screenshots/scr2.jpg" width="500" />
+<img src="./screenshots/scr2.png" width="500" />
